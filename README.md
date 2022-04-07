@@ -2,7 +2,7 @@
 JQ Score Plugin
 
 # example
-[Github page example](https://jay0324.github.io/score/)
+[Codepen example](https://codepen.io/jayh0324/pen/LYedeEy)
 
 
 # how to use
