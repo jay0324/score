@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,MADE,CACF,MAAM,AAAA,CACF,OAAO,CAAC,YAAY,CACpB,KAAK,CAAC,IAAI,CACV,MAAM,CAAC,IAAI,CACX,MAAM,CAAC,GAAG,CACV,MAAM,CAAC,OAAO,CACd,IAAI,CAAC,OAAO,CAKf,AAZL,AASQ,MATF,CACF,MAAM,AAQD,GAAG,AAAA,CACA,IAAI,CAAC,OAAO,CACf",
+    "sources": [
+        "../scss/jquery-score.scss"
+    ],
+    "names": [],
+    "file": "jquery-score.min.css"
+}
